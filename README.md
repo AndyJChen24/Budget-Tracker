@@ -37,14 +37,14 @@ Load the app at [http://localhost:3000](http://localhost:3000).
 ## Demo
 A demo of the app can be found here:
 
-[https://fast-waters-35393.herokuapp.com/](https://fast-waters-35393.herokuapp.com/)
+[https://pacific-journey-14146.herokuapp.com/](https://pacific-journey-14146.herokuapp.com/)
 
 ## Technologies
 * Node.js
 * Express.js
 * Mongoose
 
-![Workout Tracker](https://github.com/AndyJChen24/Workout-Tracker/blob/master/public/images/fitnessgraph.PNG)
+![Budget Tracker](https://github.com/AndyJChen24/Budget-Tracker/blob/master/img.PNG)
 
 ## Authors
 
